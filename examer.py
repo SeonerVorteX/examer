@@ -1,15 +1,5 @@
-"""
 # 30.10.2023
-Developer: Mehdi Safarzade (SeonerVorteX - https://github.com/SeonerVorteX/)
-Requirements: pip install -r requirements.txt
-How to use: python examer.py and follow the instructions
-Note: 
-    You can add your own exams to the ./templates folder. The exam template should be in the form of a .xlsx file. 
-    The first column should be the question, the second column should be the first variant, the third column should 
-    be the second variant, the fourth column should be the third variant, the fifth column should be the fourth variant, 
-    the sixth column should be the fifth variant, and the seventh column should be the correct answer. You can use the 
-    Example.xlsx file in the ./templates folder as an example.
-"""
+# Developer: Mehdi Safarzade (SeonerVorteX - https://github.com/SeonerVorteX/)
 
 import os
 import glob
